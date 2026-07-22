@@ -61,3 +61,18 @@ Crear entorno virtual:
 
 ```bash
 python -m venv .venv
+
+
+## Documentación
+
+La documentación técnica se encuentra en:
+
+- `technical-docs/architecture.md`
+- `technical-docs/database-design.md`
+- `technical-docs/api-documentation.md`
+
+## Informe ejecutivo
+
+El informe ejecutivo solicitado para la prueba se encuentra en:
+
+- `executive-report/executive-report.md`
