@@ -67,9 +67,9 @@ python -m venv .venv
 
 La documentación técnica se encuentra en:
 
-- `technical-docs/architecture.md`
-- `technical-docs/database-design.md`
-- `technical-docs/api-documentation.md`
+- `docs/database-design.md`
+- `docs/executive-report/executive-report.md`
+- `docs/technical-report/technical-report.md`
 
 ## Informe ejecutivo
 
