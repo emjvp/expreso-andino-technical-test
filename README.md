@@ -61,6 +61,7 @@ Crear entorno virtual:
 
 ```bash
 python -m venv .venv
+```
 
 ## Documentación
 
