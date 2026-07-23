@@ -7,11 +7,15 @@ function StatusBadge({
 
         CREATED: "Creado",
 
+        PICKED_UP: "Recogido",
+
         IN_TRANSIT: "En tránsito",
 
         DELIVERED: "Entregado",
 
-        OUT_FOR_DELIVERY: "En entrega"
+        OUT_FOR_DELIVERY: "En entrega",
+
+        RETURNED: "Devuelto"
 
     };
 
